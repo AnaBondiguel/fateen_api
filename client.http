@@ -1,4 +1,4 @@
-@token = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE2NjU0NzQyODN9.9Tm1WFRFjMTawJlSR3au6_R_5d_iaDDhnuVeY-oZeQ0"
+@token = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE2NjU2MjMwMjR9.dXGhv4DVm5pzZ0qUHAqYnBhhy-UW_dwjetMsZbNvEyk"
 
 ### Get predictions
 GET http://localhost:3000/api/predictions
